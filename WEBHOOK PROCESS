@@ -4,3 +4,4 @@ Add GitHub URL which you wants to add in webhook trigger
 Go to GitHub Repository which you want to run.
 Go thier settings and add Webhook 
 Add Jenkins login URL and Add with 
+done
